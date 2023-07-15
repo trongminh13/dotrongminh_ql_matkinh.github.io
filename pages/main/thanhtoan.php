@@ -1,0 +1,1 @@
+<p>Bạn đã thanh toán đơn hàng</p>
